@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiThraed", "MultiThraed\MultiThraed.vcxproj", "{7C2B3A09-D7C1-4B0B-B8BF-86C377D1E629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C2B3A09-D7C1-4B0B-B8BF-86C377D1E629}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7C2B3A09-D7C1-4B0B-B8BF-86C377D1E629}.Debug|Win32.Build.0 = Debug|Win32
+		{7C2B3A09-D7C1-4B0B-B8BF-86C377D1E629}.Release|Win32.ActiveCfg = Release|Win32
+		{7C2B3A09-D7C1-4B0B-B8BF-86C377D1E629}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

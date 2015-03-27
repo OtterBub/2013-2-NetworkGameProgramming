@@ -1,0 +1,27 @@
+WinSock Init
+
+Connect
+
+IDNum 입력
+
+- createRecvThread
+-- WorldUpdate
+-- Monster와 타 Player update
+
+InGamePlay
+- 자신의 캐릭터 와 간단한 UI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								ㅁㄴㅇㅁㅈㅇㅁㄴㅊㅁㅇㄻㄴㄹㅈㄴㅁㅈㅇ

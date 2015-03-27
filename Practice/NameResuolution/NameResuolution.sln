@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NameResuolution", "NameResuolution\NameResuolution.vcxproj", "{D12E6649-3AF4-47EA-B54C-E8AA2DE29288}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetAllName_and_IP", "GetAllName_and_IP\GetAllName_and_IP.vcxproj", "{12783CA5-4285-4540-9B2F-BEEB0C19C41F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "msdn_ex_getaddrinfo", "msdn_ex_getaddrinfo\msdn_ex_getaddrinfo.vcxproj", "{6BF5ADC9-F08E-4E5C-808A-0BD1950B0FD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D12E6649-3AF4-47EA-B54C-E8AA2DE29288}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D12E6649-3AF4-47EA-B54C-E8AA2DE29288}.Debug|Win32.Build.0 = Debug|Win32
+		{D12E6649-3AF4-47EA-B54C-E8AA2DE29288}.Release|Win32.ActiveCfg = Release|Win32
+		{D12E6649-3AF4-47EA-B54C-E8AA2DE29288}.Release|Win32.Build.0 = Release|Win32
+		{12783CA5-4285-4540-9B2F-BEEB0C19C41F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12783CA5-4285-4540-9B2F-BEEB0C19C41F}.Debug|Win32.Build.0 = Debug|Win32
+		{12783CA5-4285-4540-9B2F-BEEB0C19C41F}.Release|Win32.ActiveCfg = Release|Win32
+		{12783CA5-4285-4540-9B2F-BEEB0C19C41F}.Release|Win32.Build.0 = Release|Win32
+		{6BF5ADC9-F08E-4E5C-808A-0BD1950B0FD8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6BF5ADC9-F08E-4E5C-808A-0BD1950B0FD8}.Debug|Win32.Build.0 = Debug|Win32
+		{6BF5ADC9-F08E-4E5C-808A-0BD1950B0FD8}.Release|Win32.ActiveCfg = Release|Win32
+		{6BF5ADC9-F08E-4E5C-808A-0BD1950B0FD8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

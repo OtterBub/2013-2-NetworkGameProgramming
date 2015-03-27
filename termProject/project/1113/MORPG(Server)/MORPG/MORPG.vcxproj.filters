@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="RPGWorld\CallBackFunc.h" />
+    <ClInclude Include="RPGWorld\FMS.h" />
+    <ClInclude Include="RPGWorld\Monster.h" />
+    <ClInclude Include="RPGWorld\MonsterState.h" />
+    <ClInclude Include="RPGWorld\Object3D.h" />
+    <ClInclude Include="RPGWorld\Player.h" />
+    <ClInclude Include="RPGWorld\Pyramid.h" />
+    <ClInclude Include="RPGWorld\RPGWorld.h" />
+    <ClInclude Include="RPGWorld\State.h" />
+    <ClInclude Include="RPGWorld\Util.h" />
+    <ClInclude Include="RPGWorld\World3D.h" />
+    <ClInclude Include="RPGWorld\ServerThread.h" />
+    <ClInclude Include="RPGWorld\PacketStruct.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="RPGWorld\main.cpp" />
+    <ClCompile Include="RPGWorld\Monster.cpp" />
+    <ClCompile Include="RPGWorld\MonsterState.cpp" />
+    <ClCompile Include="RPGWorld\Object3D.cpp" />
+    <ClCompile Include="RPGWorld\Player.cpp" />
+    <ClCompile Include="RPGWorld\Pyramid.cpp" />
+    <ClCompile Include="RPGWorld\RPGWorld.cpp" />
+    <ClCompile Include="RPGWorld\Util.cpp" />
+    <ClCompile Include="RPGWorld\World3D.cpp" />
+    <ClCompile Include="RPGWorld\CallBackFunc.cpp" />
+    <ClCompile Include="RPGWorld\ServerThread.cpp" />
+  </ItemGroup>
+</Project>
